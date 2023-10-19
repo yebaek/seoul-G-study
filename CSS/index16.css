@@ -1,0 +1,17 @@
+#wrap #title h1 {
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+  text-decoration: underline;
+  
+}
+#wrap #content {
+  background-color: #3d5208;
+  color: white;
+  padding: 30px 10px;
+}
+#wrap #date {
+  height: 70px;
+  padding-top: 30px;
+  text-align: center;
+}
